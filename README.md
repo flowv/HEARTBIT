@@ -1,3 +1,3 @@
 # HEARTBIT WALKS
 
-Code repository for London Festival of Architecture 2018
+Code repository for London Festival of Architecture 2018.
