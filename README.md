@@ -1,6 +1,6 @@
 # HEARTBIT WALKS
 
-![alt text](http://url/to/img.png)
+![alt text](/HBW_Header.jpg)
 
 London Festival of Architecture 2018
 Code Repository 
