@@ -13,10 +13,14 @@ The HeartBit Walks project intends to collect detailed emotional insights on the
 
 The project is articulated in two parts. A workshop open to UCL Bartlett BPro Urban Design students will take place at the Bartlett School of Architecture in May. The two-day workshop will focus on the construction of wearable sensing devices that, drawing on methods pioneered by artist Christian Nold in 2007, will be used to collect combined biometric (galvanic-skin response) and GPS information. Further, the project will continue as a two-day event part of the London Festival of Architecture. The event will take place at UCL Here East and along the nearby canal walks, where selected participants will be invited to test the sensing devices during explorative local walks.
 
+// Open Source
+The technical reseach and the development of the HeartBit Walks would not have happened without “open source” and freely available software. Arduino makes it possible to easly programm a microprocessor, all of a sudden seemingly complocated things demystify and become as [banal] as your coffe machine. YouTube, Vimeo and countless blogs were of tremendous help in the putting the machine together. I don’t know how long it would have taken me without all this. Whilst i don’t really expect that anybody will recreate the data-logger, I still hope that somebodt might take inspiration from this repository. And for me, it’s one way to show my gratiude to all those who spend their time in developing freely availabe -and transparent- codes.
+
+
 // Code Repository
 
-This repository contains the code files for the Heartbit Walks. The data have been logged by seven Arduino-based mobile units. These units recoded the time, location and galvanic skin response of each participant and saved them into a .csv file. 
-The code for the Arduino unit and the resulting csv files are available in this repository. 
+The mobile data-logger is at the heart of this experiment. It’s an Arduino based unit that collects the location, the time and the galvanic skin response. 
+The repository contains all the details one needs to know in order to recreate the data-logger and the event. 
 
 // Parts List
 
@@ -30,7 +34,18 @@ SD Card
 9V battery and battery jack.
 Jumper wires.
 
-Creating the box
+
+// The Code
+The data have been logged by seven Arduino-based mobile units. These units recoded the time, location and galvanic skin response of each participant and saved them into a .csv file. 
+The code for the Arduino unit and the resulting csv files are available in this repository. 
+
+// CSV Files
+
+This information was saved on an SD card. Participants were invited to share their observations, these were added manually to the file. 
+Obviously, all the records are anonimised and this allows us to share them too.
+
+
+//Creating the box
 We decided to build an acrylic box to protect the data-logger. The acrylic sheets have been cut with a laser cutter and glued together with acrylic cement. The box consists of a lower and upper part, fixed by screws and nuts. 
 The Arduino sits on nylon spacers and these spacers are fixed into pre cut holes in the acrylic sheet.
 The file to cut out the acrylic sheets can be downloaded here.
