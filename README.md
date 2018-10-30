@@ -5,7 +5,7 @@
 London Festival of Architecture 2018
 Code Repository 
 
-// INTRO
+## INTRO
 
 The section of the River Lee that borders the east side of Hackney Wick, branching to the west into the Hertford Union Canal, houses a culturally diverse community of active users, ranging from cycling and pedestrian commuters, to residential boats owners, runners, passers-by and to less fortunate rough sleepers. Despite its popularity, the canal walk suffers of environmental and security issues, with water pollution, shadowy underpasses and bottlenecks being only some of the factors that contribute to a rough appearance and an increased perception of crime risk after dusk.
 
@@ -13,11 +13,11 @@ The HeartBit Walks project intends to collect detailed emotional insights on the
 
 The project is articulated in two parts. A workshop open to UCL Bartlett BPro Urban Design students will take place at the Bartlett School of Architecture in May. The two-day workshop will focus on the construction of wearable sensing devices that, drawing on methods pioneered by artist Christian Nold in 2007, will be used to collect combined biometric (galvanic-skin response) and GPS information. Further, the project will continue as a two-day event part of the London Festival of Architecture. The event will take place at UCL Here East and along the nearby canal walks, where selected participants will be invited to test the sensing devices during explorative local walks.
 
-// Open Source
+##Open Source
 The technical reseach and the development of the HeartBit Walks would not have happened without “open source” and freely available software. Arduino makes it possible to easly programm a microprocessor, all of a sudden seemingly complocated things demystify and become as [banal] as your coffe machine. YouTube, Vimeo and countless blogs were of tremendous help in the putting the machine together. I don’t know how long it would have taken me without all this. Whilst i don’t really expect that anybody will recreate the data-logger, I still hope that somebodt might take inspiration from this repository. And for me, it’s one way to show my gratiude to all those who spend their time in developing freely availabe -and transparent- codes.
 
 
-// Code Repository
+##Code Repository
 
 The mobile data-logger is at the heart of this experiment. It’s an Arduino based unit that collects the location, the time and the galvanic skin response. 
 The repository contains all the details one needs to know in order to recreate the data-logger and the event. 
