@@ -21,6 +21,8 @@ The text below has been used to advertise the event and puts this repository int
 
 >The project is articulated in two parts. A workshop open to UCL Bartlett BPro Urban Design students will take place at the Bartlett School of Architecture in May. The two-day workshop will focus on the construction of wearable sensing devices that, drawing on methods pioneered by artist Christian Nold in 2007, will be used to collect combined biometric (galvanic-skin response) and GPS information. Further, the project will continue as a two-day event part of the London Festival of Architecture. The event will take place at UCL Here East and along the nearby canal walks, where selected participants will be invited to test the sensing devices during explorative local walks.
 
+![alt text](/HBW Stand.jpg)
+
 ## Open Source
 
 The technical research and the development of the HeartBit Walks would not have happened without “open source” and freely available software. [Arduino](https://www.arduino.cc/) makes it possible to program a microprocessor, [QGIS](https://qgis.org/en/site/) offers mapping and spatial analysis tools and [p5.js](https://p5js.org/) is an allrounder when it comes to data visualisation. YouTube, Vimeo and countless blogs were of tremendous help in the putting it all together. 
@@ -28,6 +30,8 @@ The technical research and the development of the HeartBit Walks would not have 
 I don’t know how long it would have taken me without all this. Most likely, it wouldn’t have happed without the help of so many people out there. I don’t really expect that anybody will recreate the data-logger one-to-one, but I hope that somebody might find this repository useful. And for me, it’s one way to show my gratitude to all those who spend their time in developing freely available -and transparent- codes.)
 
 A very thank goes  to all the participants who shared their experiences and time. All the results are now online – obviously anonymised. So, no worries!
+
+![alt text](/HBW Data Logger.jpg)
 
 
 ## Code Repository
@@ -65,4 +69,6 @@ The Arduino sits on nylon spacers and these spacers are fixed into pre cut holes
 The file to cut out the acrylic sheets can be downloaded here.
 
 The box worked quite well in field conditions, but should be considered as a The box is a prototype, so if I would do it a second time, I would give going to do it a second time, I would choose the same principle but reduce it in size, give it more shape and possibly use coloured acrylic sheets. 
+
+![alt text](/HBW Data Logger 2.jpg)
 
