@@ -42,12 +42,12 @@ The repository contains all the details one needs to know in order to recreate t
 ## Parts List
 
 The data-logger consists of different parts that need to be purchased separately. Below the list and the specs:
-- Arduino UNO: this forms the heart of the datalogger. You can purchase it separately or as part of a larger set
-- GSR Skin Sensor: this measures the galvanic skin response and transmits the data to the Arduino 
+- **Arduino UNO**: this forms the heart of the datalogger. You can purchase it separately or as part of a larger set
+- **GSR Skin Sensor**: this measures the galvanic skin response and transmits the data to the Arduino 
 Seeed 101020052 Grove - GSR Galvanic Skin Response with Finger Sensors
-- GPS Module: this one provides you with the location, date and time. There are quite a few modules around and I happen to use this one.
-- SIM shield: this shield is to be mounted onto the Arduino, it has a little slot for an external microSD. The collected data are combined on the Arduino and written onto the SD.
-- SD Card
+- **GPS Module**: this one provides you with the location, date and time. There are quite a few modules around and I happen to use this one.
+- **SD shield**: this shield is to be mounted onto the Arduino, it has a little slot for an external microSD. The collected data are combined on the Arduino and written onto the SD.
+- **SD Card**
 - 9V battery and battery jack.
 - Jumper wires.
 
@@ -55,11 +55,14 @@ Seeed 101020052 Grove - GSR Galvanic Skin Response with Finger Sensors
 ## The Code
 The data have been logged by seven Arduino-based mobile units. These units recoded the time, location and galvanic skin response of each participant and saved them into a .csv file. 
 
-The code for the Arduino unit and the resulting csv files are available in this [repository](/HBW_Walks.csv). 
+The code for the Arduino unit can be downloaded from [here](/Arduino Code/GPS_GSR_Logger.ino).  
 
 ## CSV Files
 This information was saved on an SD card. Participants were invited to share their observations, these were added manually to the file. 
 Obviously, all records are anonymised and this allows us to share them with you.
+
+The resulting csv files are available from [here](/HBW_Walks.csv).
+      
 
 ## Creating the box
 We decided to build an acrylic box to protect the data-logger. The acrylic sheets have been cut with a laser cutter and glued together with acrylic cement. The box consists of a lower and upper part, fixed by screws and nuts. The Arduino sits on nylon spacers and these spacers are fixed into pre-cut holes in the acrylic sheet.
