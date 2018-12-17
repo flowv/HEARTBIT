@@ -21,7 +21,7 @@ The text below has been used to advertise the event and puts this repository int
 
 >The project is articulated in two parts. A workshop open to UCL Bartlett BPro Urban Design students will take place at the Bartlett School of Architecture in May. The two-day workshop will focus on the construction of wearable sensing devices that, drawing on methods pioneered by artist Christian Nold in 2007, will be used to collect combined biometric (galvanic-skin response) and GPS information. Further, the project will continue as a two-day event part of the London Festival of Architecture. The event will take place at UCL Here East and along the nearby canal walks, where selected participants will be invited to test the sensing devices during explorative local walks.
 
-![alt text](/HBW Stand.jpg)
+![alt text](/HBW_Stand.jpg)
 
 ## Open Source
 
@@ -70,5 +70,5 @@ The file to cut out the acrylic sheets can be downloaded here.
 
 The box worked quite well in field conditions, but should be considered as a The box is a prototype, so if I would do it a second time, I would give going to do it a second time, I would choose the same principle but reduce it in size, give it more shape and possibly use coloured acrylic sheets. 
 
-![alt text](/HBW Data Logger 2.jpg)
+![alt text](HEARTBIT/HBW_Data Logger.jpg)
 
