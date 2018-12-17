@@ -64,7 +64,9 @@ Obviously, all records are anonymised and this allows us to share them with you.
 ## Creating the box
 We decided to build an acrylic box to protect the data-logger. The acrylic sheets have been cut with a laser cutter and glued together with acrylic cement. The box consists of a lower and upper part, fixed by screws and nuts. The Arduino sits on nylon spacers and these spacers are fixed into pre-cut holes in the acrylic sheet.
 
-The file to cut out the acrylic sheets can be downloaded here.
+![alt text](/HBW_Diagramm.jpg)
+
+The file to cut out the acrylic sheets can be downloaded [here](/HBW_Box_CutOut.pdf).
 
 The box worked quite well under field conditions but should be considered as a prototype. So, next time, I would make it a little bit smaller and more fashionable. People who wear the box must like it!  
 
