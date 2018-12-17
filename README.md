@@ -31,7 +31,7 @@ I don’t know how long it would have taken me without all this. Most likely, it
 
 A very thank goes  to all the participants who shared their experiences and time. All the results are now online – obviously anonymised. So, no worries!
 
-![alt text](/HBW Data Logger.jpg)
+![alt text](HEARTBIT/HBW Data Logger 2.jpg)
 
 
 ## Code Repository
