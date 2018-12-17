@@ -55,7 +55,7 @@ Seeed 101020052 Grove - GSR Galvanic Skin Response with Finger Sensors
 ## The Code
 The data have been logged by seven Arduino-based mobile units. These units recoded the time, location and galvanic skin response of each participant and saved them into a .csv file. 
 
-The code for the Arduino unit and the resulting csv files are available in this [repository](\HBW_Walks.csv). 
+The code for the Arduino unit and the resulting csv files are available in this [repository](/HBW_Walks.csv). 
 
 ## CSV Files
 This information was saved on an SD card. Participants were invited to share their observations, these were added manually to the file. 
