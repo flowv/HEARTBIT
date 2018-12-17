@@ -21,6 +21,7 @@ The text below has been used to advertise the event and puts this repository int
 
 >The project is articulated in two parts. A workshop open to UCL Bartlett BPro Urban Design students will take place at the Bartlett School of Architecture in May. The two-day workshop will focus on the construction of wearable sensing devices that, drawing on methods pioneered by artist Christian Nold in 2007, will be used to collect combined biometric (galvanic-skin response) and GPS information. Further, the project will continue as a two-day event part of the London Festival of Architecture. The event will take place at UCL Here East and along the nearby canal walks, where selected participants will be invited to test the sensing devices during explorative local walks.
 
+
 ![alt text](/HBW_Stand.jpg)
 
 ## Open Source
@@ -31,11 +32,10 @@ I don’t know how long it would have taken me without all this. Most likely, it
 
 A very thank goes  to all the participants who shared their experiences and time. All the results are now online – obviously anonymised. So, no worries!
 
-![alt text](HEARTBIT/HBW_Data_Logger 2.jpg)
+![alt text](/HBW_Data_Logger_2.jpg)
 
 
 ## Code Repository
-
 The mobile data-logger is at the heart of this experiment. It’s an Arduino based unit that collects the location, the time and the galvanic skin response. 
 The repository contains all the details one needs to know in order to recreate the data-logger and the event. 
 
@@ -57,18 +57,16 @@ The data have been logged by seven Arduino-based mobile units. These units recod
 The code for the Arduino unit and the resulting csv files are available in this repository. 
 
 ## CSV Files
-
 This information was saved on an SD card. Participants were invited to share their observations, these were added manually to the file. 
-Obviously, all the records are anonimised and this allows us to share them too.
-
+Obviously, all records are anonymised and this allows us to share them with you.
 
 ## Creating the box
+We decided to build an acrylic box to protect the data-logger. The acrylic sheets have been cut with a laser cutter and glued together with acrylic cement. The box consists of a lower and upper part, fixed by screws and nuts. The Arduino sits on nylon spacers and these spacers are fixed into pre-cut holes in the acrylic sheet.
 
-We decided to build an acrylic box to protect the data-logger. The acrylic sheets have been cut with a laser cutter and glued together with acrylic cement. The box consists of a lower and upper part, fixed by screws and nuts. 
-The Arduino sits on nylon spacers and these spacers are fixed into pre cut holes in the acrylic sheet.
 The file to cut out the acrylic sheets can be downloaded here.
 
-The box worked quite well in field conditions, but should be considered as a The box is a prototype, so if I would do it a second time, I would give going to do it a second time, I would choose the same principle but reduce it in size, give it more shape and possibly use coloured acrylic sheets. 
+The box worked quite well under field conditions but should be considered as a prototype. So, next time, I would make it a little bit smaller and more fashionable. People who wear the box must like it!  
 
-![alt text](HEARTBIT/HBW_Data_Logger.jpg)
+
+![alt text](/HBW_Data_Logger.jpg)
 
